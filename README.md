@@ -11,8 +11,4 @@ Serializadores Eficientes: Implementação de serializadores para uma manipulaç
 
 Class-Based Views (CBVs): Utilização de CBVs para uma estrutura de código mais organizada e reutilizável.
 
-Autenticação e Autorização: Integração de autenticação e autorização para proteger endpoints sensíveis.
-
-Middleware Personalizado: Uso de middleware para aprimorar a lógica de processamento de requisições HTTP.
-
 Testes Automatizados: Incorporação de testes automatizados para garantir a confiabilidade do código.
